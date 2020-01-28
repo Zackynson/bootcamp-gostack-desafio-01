@@ -10,9 +10,8 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Zackynson/bootcamp-gostack-desafio-01/index.js">Codigo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    
-  <a href="#memo-licença">Licença</a>
+  <a href="https://github.com/Zackynson/bootcamp-gostack-desafio-01/blob/master/index.js">Codigo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#memo-licença">Licença</a>
 </p>
 
 ## :rocket: Sobre o desafio
